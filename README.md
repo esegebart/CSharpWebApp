@@ -16,6 +16,11 @@ This was coded using Java 8 and JavaFx for the GUI)
 
 ## Code style
 Since professional design and functionality was important to this project, I tried to hack a solution out first, but ran out of time.
+
+## What My Next Steps Would Be
+I would figure out next how to implement and onClick listener to my Submit button that would use the GitHub Api and build a table with HTML for my data to be displayed in.
+I would need to make sure my Json was deserialized and parsed. The data would then update in my list of results. I try to focus on small steps, like TDD, and get the smallest
+thing working possible first and then build on that.
  
 ## Screenshots
 The two search bars I was trying to hack out. 
