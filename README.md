@@ -6,13 +6,16 @@ more than the time allotted to work on it. Web apps are something I have done on
 This was very exciting as I want to be in application development and my current situation is more in DevOps, Embedded Systems, and Testing. Thank you for the opportunity to grow!
 
 I have used MVC before in a SmartHome thermostat I designed in school, you can view that here https://github.com/esegebart/SmartHomeThermostat_JavaFX.
+
 (This was when I was first learning GIT so my files are all added manually and hard to navigate and I unfortunately broke the computer with that project on it 
 so here are some code samples:
+
 Main.java - https://github.com/esegebart/SmartHomeThermostat_JavaFX/blob/master/Main.java
 HolidayController - https://github.com/esegebart/SmartHomeThermostat_JavaFX/blob/master/HolidayController.java
 IncrementTempController - https://github.com/esegebart/SmartHomeThermostat_JavaFX/blob/master/IncrementTempController.java
 ProgramScreen - https://github.com/esegebart/SmartHomeThermostat_JavaFX/blob/master/ProgramScreen.java
-This was coded using Java 8 and JavaFx for the GUI)
+
+This was coded using Java 8 and JavaFx for the GUI.)
 
 ## Code style
 Since professional design and functionality was important to this project, I tried to hack a solution out first, but ran out of time.
@@ -47,11 +50,8 @@ repositories), in my ProductsController I tried to add an ActionResult Index() w
 to return them in the View.
 
 ## Code Example
-Trying to use the WebClient to get the repos from the GitHub API and deserialize them to list on the page.
+I was trying to use the WebClient to get the repos from the GitHub API and deserialize them to list on the page.
 ![image](https://user-images.githubusercontent.com/36378900/109737509-cb839180-7b8b-11eb-8b4a-26ebae693213.png)
-
-## Installation
-Provide step by step series of examples and explanations about how to get a development env running.
 
 ## API Reference
 https://api.github.com/search/users?q=example
